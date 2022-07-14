@@ -1,0 +1,19 @@
+ Metics 
+ Accuracy = 0.7129919888540578
+ Precision = 0.5260869565217391
+ Recall = 0.3960720130932897
+ F1 Score = 0.4519140989729225
+ Class 0.0 precision = 0.7787610619469026
+ Class 0.0 recall = 0.8727272727272727
+ Class 0.0 F1 Measure = 0.82307092751364
+ Class 1.0 precision = 0.5260869565217391
+ Class 1.0 recall = 0.3960720130932897
+ Class 1.0 F1 Measure = 0.4519140989729225
+ Class 2.0 precision = 0.5862068965517241
+ Class 2.0 recall = 0.4966292134831461
+ Class 2.0 F1 Measure = 0.5377128953771289
+ Weighted recall = 0.7129919888540578
+ Weighted precision = 0.6951419459539979
+ Weighted F(1) Score = 0.6998521373572046
+ Weighted F(0.5) Score = 0.6959156101125727
+ Weighted F(1) Score = 0.29989190953103606
