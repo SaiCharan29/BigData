@@ -1,0 +1,39 @@
+a) Find the top 5 nodes with the highest outdegree and find the count of the number of outgoing edges in each
+Node	No. of outgoing edges
+2565 	 893
+766 	 773
+11 	 743
+457 	 732
+2688 	 618
+
+b) Find the top 5 nodes with the highest indegree and find the count of the number of incoming edges in each
+Node	No. of incoming edges
+4037 	 457
+15 	 361
+2398 	 340
+2625 	 331
+1297 	 309
+
+c) Calculate PageRank for each of the nodes and output the top 5 nodes with the highest PageRank values.
+Node	PageRank values
+4037 	 32.761392590350795
+15 	 26.25300495761947
+6634 	 26.16452443488649
+2625 	 23.51151593302638
+2398 	 18.728389390669683
+
+d) Run the connected components algorithm on it and find the top 5 components with the largest number of nodes.
+Component	Count
+1 	 3443
+146028888085 	 3
+137438953489 	 2
+317827579944 	 2
+566935683088 	 2
+
+e) Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the largest triangle count.
+Vertex	TriangleCount
+2565 	 30940
+1549 	 22003
+766 	 18204
+1166 	 17361
+2688 	 14220
